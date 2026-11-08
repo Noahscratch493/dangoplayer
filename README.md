@@ -39,6 +39,20 @@ DangoPlayer comes with a variety of features to make video playback easier:
 - Direct video links must point to video content that can be accessed by the player.
 - Supported formats and playback capabilities depend on your browser.
 
+## 🧊 Extensions Used
+
+https://extensions.turbowarp.org/TheShovel/CustomStyles.js
+https://extensions.turbowarp.org/Lily/Video.js
+https://extensions.turbowarp.org/veggiecan/browserfullscreen.js
+https://extensions.turbowarp.org/files.js
+https://extensions.turbowarp.org/Lily/MoreEvents.js
+https://extensions.turbowarp.org/iframe.js
+https://extensions.turbowarp.org/runtime-options.js
+https://extensions.turbowarp.org/Lily/LooksPlus.js
+https://cattymod.app/extensions/modals.js
+https://cattymod.app/extensions/captcha.js
+https://extensions.turbowarp.org/true-fantom/network.js
+
 ## 📜 License
 
 DangoPlayer is open source and licensed under the **MIT License**.
