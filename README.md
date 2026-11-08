@@ -71,6 +71,7 @@ The screenshot is playing [Mesmerizer by 32ki](https://archive.org/details/mesma
 
 The Play Icon and Zooming Icons are from [CattyMod](https://cattymod.app).
 
+The cursor is from Microsoft Windows (C:\Windows\Cursors\arrow.svg) but flipped and inverted.
 
 ## 📜 License
 
