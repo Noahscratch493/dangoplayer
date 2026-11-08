@@ -10,7 +10,7 @@ DangoPLAYER is a video player project made in CattyMod, designed to make watchin
 | Action | Link |
 |---|---|
 | 🎮 Open in CattyMod Studio | [Open DangoPLAYER](https://studio.cattymod.app/?project_url=https%3A%2F%2Fnoahscratch493.github.io%2Fdangoplayer%2Fdangoplayer.cmp) |
-| 🌐 DangoPLAYER Web | [Open DangoPLAYER Web](https://noahscratch493.github.io/dangoplayer/) |
+| 🌐 DangoPLAYER Web | [Open DangoPLAYER Web](https://noahscratch493.github.io/dangoplayer/player) |
 | 📥 Download DangoPLAYER | [Download DangoPLAYER (.cmp)](https://noahscratch493.github.io/dangoplayer/dangoplayer.cmp) |
 
 ## ✨ Features
