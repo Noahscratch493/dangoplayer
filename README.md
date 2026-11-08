@@ -1,20 +1,21 @@
-# DangoPlayer
+# DangoPLAYER
 
 **An Open Source Video Player created in [CattyMod](https://cattymod.app).**
 
-<img src="screenshot.png" alt="DangoPlayer Screenshot" width="500">
-DangoPlayer is a video player project made in CattyMod, designed to make watching videos simple and convenient. It supports local video files, video links, playback controls, and more!
+<img src="screenshot.png" alt="DangoPLAYER Screenshot" width="500">
+DangoPLAYER is a video player project made in CattyMod, designed to make watching videos simple and convenient. It supports local video files, video links, playback controls, and more!
 
-## 🚀 Try DangoPlayer
+## 🚀 Try DangoPLAYER
 
 | Action | Link |
 |---|---|
-| 🎮 Open in CattyMod Studio | [Open DangoPlayer](https://studio.cattymod.app/?project_url=https%3A%2F%2Fnoahscratch493.github.io%2Fdangoplayer%2FDangoPlayer.cmp) |
-| 📥 Download DangoPlayer | [Download DangoPlayer (.cmp)](https://noahscratch493.github.io/dangoplayer/DangoPlayer.cmp) |
+| 🎮 Open in CattyMod Studio | [Open DangoPLAYER](https://studio.cattymod.app/?project_url=https%3A%2F%2Fnoahscratch493.github.io%2Fdangoplayer%2Fdangoplayer.cmp) |
+| 🌐 DangoPLAYER Web | [Open DangoPLAYER Web](https://noahscratch493.github.io/dangoplayer/) |
+| 📥 Download DangoPLAYER | [Download DangoPLAYER (.cmp)](https://noahscratch493.github.io/dangoplayer/dangoplayer.cmp) |
 
 ## ✨ Features
 
-DangoPlayer comes with a variety of features to make video playback easier:
+DangoPLAYER comes with a variety of features to make video playback easier:
 
 - **YouTube Video Loading:** Load YouTube videos using embedded iframes. (Limited functionality due to iframe restrictions.)
 - **File Uploading:** Upload and play video files from your device.
@@ -27,7 +28,7 @@ DangoPlayer comes with a variety of features to make video playback easier:
 
 ## 📖 How to Use
 
-1. Open DangoPlayer using CattyMod Studio or download the project.
+1. Open DangoPLAYER using CattyMod Studio or download the project.
 2. Load a video by uploading a file or entering a video link.
 3. Use the playback controls to pause, play, fast-forward, or rewind.
 4. Adjust the zoom level to your preference.
@@ -41,21 +42,34 @@ DangoPlayer comes with a variety of features to make video playback easier:
 
 ## 🧊 Extensions Used
 
-https://extensions.turbowarp.org/TheShovel/CustomStyles.js
-https://extensions.turbowarp.org/Lily/Video.js
-https://extensions.turbowarp.org/veggiecan/browserfullscreen.js
-https://extensions.turbowarp.org/files.js
-https://extensions.turbowarp.org/Lily/MoreEvents.js
-https://extensions.turbowarp.org/iframe.js
-https://extensions.turbowarp.org/runtime-options.js
-https://extensions.turbowarp.org/Lily/LooksPlus.js
-https://cattymod.app/extensions/modals.js
-https://cattymod.app/extensions/captcha.js
-https://extensions.turbowarp.org/true-fantom/network.js
+[Custom Styles](https://extensions.turbowarp.org/TheShovel/CustomStyles.js)
+
+[Video](https://extensions.turbowarp.org/Lily/Video.js)
+
+[Browser Fullscreen](https://extensions.turbowarp.org/veggiecan/browserfullscreen.js)
+
+[Files](https://extensions.turbowarp.org/files.js)
+
+[More Events](https://extensions.turbowarp.org/Lily/MoreEvents.js)
+
+[Iframe](https://extensions.turbowarp.org/iframe.js)
+
+[Runtime Options](https://extensions.turbowarp.org/runtime-options.js)
+
+[Looks Plus](https://extensions.turbowarp.org/Lily/LooksPlus.js)
+
+[Modals](https://cattymod.app/extensions/modals.js)
+
+[I'm not a robot](https://cattymod.app/extensions/captcha.js)
+
+[Network](https://extensions.turbowarp.org/true-fantom/network.js)
+
+## 👀 Credits
+All the extensions above were used to create DangoPLAYER
 
 ## 📜 License
 
-DangoPlayer is open source and licensed under the **MIT License**.
+DangoPLAYER is open source and licensed under the **MIT License**.
 
 See [LICENSE](LICENSE) for details.
 
