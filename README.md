@@ -69,7 +69,7 @@ All the extensions above were used to create DangoPLAYER.
 
 The screenshot is playing [Mesmerizer by 32ki](https://archive.org/details/mesma).
 
-The Zoom In/Out buttons are from [CattyMod](https://cattymod.app).
+The Play Icon and Zooming Icons are from [CattyMod](https://cattymod.app).
 
 
 ## 📜 License
