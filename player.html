@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <!-- We only include this to explicitly loosen the CSP of various packager environments. It does not provide any security. -->
   <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: blob:">
-  <title>DangoPlayer</title>
+  <title>DangoPLAYER</title>
   <style>
     body {
       color: #ffffff;
@@ -266,11 +266,11 @@
     <script>
   const getProjectData = async () => {
     const response = await fetch(
-      "https://noahscratch493.github.io/dangoplayer/DangoPlayer.cmp"
+      "https://noahscratch493.github.io/dangoplayer/dangoplayer.cmp"
     );
 
     if (!response.ok) {
-      throw new Error("Failed to load DangoPlayer.cmp");
+      throw new Error("Failed to load dangoplayer.cmp");
     }
 
     return await response.arrayBuffer();
