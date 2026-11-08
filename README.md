@@ -65,7 +65,12 @@ DangoPLAYER comes with a variety of features to make video playback easier:
 [Network](https://extensions.turbowarp.org/true-fantom/network.js)
 
 ## 👀 Credits
-All the extensions above were used to create DangoPLAYER
+All the extensions above were used to create DangoPLAYER.
+
+The screenshot is playing [Mesmerizer by 32ki](https://archive.org/details/mesma).
+
+The Zoom In/Out buttons are from [CattyMod](https://cattymod.app).
+
 
 ## 📜 License
 
